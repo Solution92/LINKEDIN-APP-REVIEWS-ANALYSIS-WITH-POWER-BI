@@ -12,7 +12,7 @@
 
 ### Introduction
 
-LinkedIn (/lɪŋktˈɪn/) is a business and employment-focused social media platform that works through websites and mobile apps. It was launched on May 5, 2003. Since December 2016, it has been a wholly-owned subsidiary of Microsoft. The platform is primarily used for professional networking and career development and allows job seekers to post their CVs and employers to post jobs. From 2015 most of the company's revenue came from selling access to information about its members to recruiters and sales professionals. LinkedIn has more than 970 million registered members from over 200 countries and territories.
+LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps. It was launched on May 5, 2003. Since December 2016, it has been a wholly-owned subsidiary of Microsoft. The platform is primarily used for professional networking and career development and allows job seekers to post their CVs and employers to post jobs. From 2015 most of the company's revenue came from selling access to information about its members to recruiters and sales professionals. LinkedIn has more than 970 million registered members from over 200 countries and territories.
 These reviews were extracted from its Google Store page.
 
 ### Problem Statement
@@ -39,7 +39,9 @@ _ Converted the timestamp column to the Date Column
 
 ### The Dashboard
 
-![Screenshot_177](https://github.com/Solution92/LINKEDIN-APP-REVIEWS-ANALYSIS-WITH-POWER-BI/assets/144762124/0b1c5441-0fb5-4867-81c4-d8a9009909db)
+
+![Screenshot_177](https://github.com/Solution92/LINKEDIN-APP-REVIEWS-ANALYSIS-WITH-POWER-BI/assets/144762124/cccaf476-87f7-4d20-9e2e-b665d5155f4f)
+
 
 ### Result and Findings
 
